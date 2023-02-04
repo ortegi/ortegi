@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maria Ortega
 - 👀 I’m interested in Front-End Web development
-- 🌱 I’m currently learning Javascript and Vue
-- 💞️ I’m looking to collaborate on interesting proyects with Javascript vanilla and Vue
+- 🌱 I’m currently working in a project called InferIa 
+- 💞️ I’m looking to collaborate on interesting proyects with Vue
 - 📫 How to reach me maria3108x@gmail.com
 
 <!---
