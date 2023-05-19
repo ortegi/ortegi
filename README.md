@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maria Ortega
 - 👀 I’m interested in Front-End Web development
-- 🌱 I’m currently working in a project called InferIa 
+- 🌱 I’m currently working in a project called InferIa [check it out](https://www.inferia.io/) 
 - 💞️ I’m looking to collaborate on interesting proyects with Vue js or React
 - 📫 How to reach me maria3108x@gmail.com
 
