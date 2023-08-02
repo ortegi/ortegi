@@ -6,7 +6,7 @@
 
 :rocket: Best projects i have ever made with Vuejs 3:
 - :video_game: [Quizz App](https://reliable-crisp-194936.netlify.app) 
-- :sunny: [Weather App](https://app.netlify.com/sites/brilliant-dusk-8b4c61/overview)
+- :sunny: [Weather App](https://brilliant-dusk-8b4c61.netlify.app/)
 
 :rocket: Best projects i have ever made with  React:
 - :sunglasses: [TodoApp](https://mellifluous-kataifi-8f4171.netlify.app/)
